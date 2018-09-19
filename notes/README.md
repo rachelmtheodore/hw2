@@ -99,6 +99,7 @@ The only dummy mistake I made was (repeatedly) referring to the raw directory as
 
 HOLY MOLY - it worked! Pictures or it didn't happen:
 
+![alt text](https://github.com/rachelmtheodore/hw2/blob/master/notes/BIDS.success.png "BIDS.success.png")
 
 I did some spot checking to confirm that I didn't mess up the dictionary entries; my understanding is that, for example, these two .json files should be equivalent if I did the dictionary part right:
 
