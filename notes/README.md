@@ -112,7 +112,7 @@ These additional files were created in the /bind directory:
 ```
 info_env.txtinfo_fs.txtinfo_host.txtinfo_volumes.txt
 ```
-A quick inspections suggests that they are reporting something about the container environment, but I should look into this further. 
+A quick inspections suggests that they are reporting something about the container environment, but I should look into this further. Of note, they weren't generated when I ran the convert.sh script from the docker command directly, only when I ran it locally when I was already inside the container.
 
 # Summary
 
